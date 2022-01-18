@@ -1,13 +1,6 @@
 # Table of contents
 
-## Fundamentals
-
-* [Projects](README.md)
-* [Task Lists](fundamentals/task-lists.md)
-
-***
-
-* [HuntingNFT Intro (outer page)](huntingnft-intro-outer-page.md)
+* [HuntingNFT Intro (outer page)](README.md)
 
 ## Basic Introduction
 
