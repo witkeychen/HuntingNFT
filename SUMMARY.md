@@ -1,8 +1,9 @@
 # Table of contents
 
-## 📓 中文
+##
 
-* [Page 1](README.md)
+* [📔 中文](README.md)
+  * [Page 2](undefined/zhong-wen/page-2.md)
 
 ***
 
