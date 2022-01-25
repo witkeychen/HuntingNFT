@@ -1,6 +1,12 @@
 # Table of contents
 
-* [HuntingNFT Intro (outer page)](README.md)
+## 📓 中文
+
+* [Page 1](README.md)
+
+***
+
+* [HuntingNFT Intro (outer page)](<README (1).md>)
 
 ## Basic Introduction
 
@@ -29,7 +35,3 @@
   * [4. Bonus winning algorithm.](huntingnft-faq/how-to-participate/4.-bonus-winning-algorithm..md)
   * [5. Where did the NFTs involved in the battle go to?](huntingnft-faq/how-to-participate/5.-where-did-the-nfts-involved-in-the-battle-go-to.md)
   * [6. Response to "The current v1.0 gameplay is too simple".](huntingnft-faq/how-to-participate/6.-response-to-the-current-v1.0-gameplay-is-too-simple-..md)
-
-## 📓 中文
-
-* [Page 1](zhong-wen/page-1.md)
