@@ -43,4 +43,4 @@
 
 ***
 
-* [中文](https://huntingnft.gitbook.io/huntingnft/)
+* [崴](https://www.google.com.cn)
