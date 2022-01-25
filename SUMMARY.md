@@ -40,7 +40,3 @@
   * [4. Bonus winning algorithm.](huntingnft-faq/how-to-participate/4.-bonus-winning-algorithm..md)
   * [5. Where did the NFTs involved in the battle go to?](huntingnft-faq/how-to-participate/5.-where-did-the-nfts-involved-in-the-battle-go-to.md)
   * [6. Response to "The current v1.0 gameplay is too simple".](huntingnft-faq/how-to-participate/6.-response-to-the-current-v1.0-gameplay-is-too-simple-..md)
-
-***
-
-* [崴](https://www.google.com.cn)
