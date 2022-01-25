@@ -3,7 +3,7 @@
 ##
 
 * [📔 中文](README.md)
-  * [Page 2](undefined/zhong-wen/page-2.md)
+  * [一、HuntingNFT介绍](undefined/zhong-wen/yi-huntingnft-jie-shao.md)
 
 ***
 
