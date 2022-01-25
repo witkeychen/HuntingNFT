@@ -14,20 +14,13 @@
   * [九、路线图](undefined/zhong-wen/jiu-lu-xian-tu.md)
   * [十、联系我们](undefined/zhong-wen/shi-lian-xi-wo-men.md)
 
-***
+## 📔 English
 
-* [HuntingNFT Intro (outer page)](<README (1).md>)
-
-## Basic Introduction
-
-* [HuntingNFT Intro](basic-introduction/huntingnft-intro.md)
-
-## Dif layer2
-
-* [Intro](dif-layer2/intro/README.md)
-  * [STEP ONE: Register for UniPass](dif-layer2/intro/step-one-register-for-unipass.md)
-  * [STEP TWO:  Deposit CKB.](dif-layer2/intro/step-two-deposit-ckb..md)
-  * [STEP THREE: Buy HuntingNFT cards and Prepare for battle.](dif-layer2/intro/step-three-buy-huntingnft-cards-and-prepare-for-battle..md)
+* [1. HuntingNFT Intro](english/1.-huntingnft-intro.md)
+* [Intro](english/intro/README.md)
+  * [STEP ONE: Register for UniPass](english/intro/step-one-register-for-unipass.md)
+  * [STEP TWO:  Deposit CKB.](english/intro/step-two-deposit-ckb..md)
+  * [STEP THREE: Buy HuntingNFT cards and Prepare for battle.](english/intro/step-three-buy-huntingnft-cards-and-prepare-for-battle..md)
 
 ## HuntingNFT FAQ
 
