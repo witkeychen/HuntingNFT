@@ -6,9 +6,12 @@
   * [一、HuntingNFT介绍](undefined/zhong-wen/page-2.md)
   * [二、Hunting的世界观](undefined/zhong-wen/er-hunting-de-shi-jie-guan.md)
   * [三、游戏物品](undefined/zhong-wen/san-you-xi-wu-pin.md)
+  * [Page 1](undefined/zhong-wen/page-1.md)
+  * [Page 2](<undefined/zhong-wen/page-2 (1).md>)
 
 ***
 
+* [📖 中文](https://huntingnft.gitbook.io/huntingnft/)
 * [HuntingNFT Intro (outer page)](<README (1).md>)
 
 ## Basic Introduction
