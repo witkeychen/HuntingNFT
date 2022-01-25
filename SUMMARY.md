@@ -6,8 +6,13 @@
   * [一、HuntingNFT介绍](undefined/zhong-wen/page-2.md)
   * [二、Hunting的世界观](undefined/zhong-wen/er-hunting-de-shi-jie-guan.md)
   * [三、游戏物品](undefined/zhong-wen/san-you-xi-wu-pin.md)
-  * [Page 1](undefined/zhong-wen/page-1.md)
-  * [Page 2](<undefined/zhong-wen/page-2 (1).md>)
+  * [四、游戏主要玩法](undefined/zhong-wen/si-you-xi-zhu-yao-wan-fa.md)
+  * [五、战斗准备](undefined/zhong-wen/wu-zhan-dou-zhun-bei.md)
+  * [六、游戏入门](undefined/zhong-wen/liu-you-xi-ru-men.md)
+  * [七、经济模型](undefined/zhong-wen/qi-jing-ji-mo-xing.md)
+  * [八、玩赚GameFi](undefined/zhong-wen/ba-wan-zhuan-gamefi.md)
+  * [九、路线图](undefined/zhong-wen/jiu-lu-xian-tu.md)
+  * [十、联系我们](undefined/zhong-wen/shi-lian-xi-wo-men.md)
 
 ***
 
