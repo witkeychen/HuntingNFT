@@ -4,6 +4,7 @@
 
 * [📔 中文](README.md)
   * [一、HuntingNFT介绍](undefined/zhong-wen/page-2.md)
+  * [二、Hunting的世界观](undefined/zhong-wen/er-hunting-de-shi-jie-guan.md)
 
 ***
 
