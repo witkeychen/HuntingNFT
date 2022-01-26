@@ -21,7 +21,7 @@
   * [7. Economic Model](english/7.-economic-model.md)
   * [8. Play and earn GameFi](english/8.-play-and-earn-gamefi.md)
   * [9. Roadmap](english/9.-roadmap.md)
-  * [Page 1](english/page-1.md)
+  * [10. Contact us](english/10.-contact-us.md)
 
 ## 📔 draft
 
