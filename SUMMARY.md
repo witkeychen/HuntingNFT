@@ -17,13 +17,18 @@
   * [3. Game items](english/3.-game-items.md)
   * [4.The main gameplay](english/4.the-main-gameplay.md)
   * [5. Preparation for battle](english/5.-preparation-for-battle.md)
+  * [6. Getting Started with the Game](english/6.-getting-started-with-the-game.md)
+  * [7. Economic Model](english/7.-economic-model.md)
+  * [8. Play and earn GameFi](english/8.-play-and-earn-gamefi.md)
+  * [9. Roadmap](english/9.-roadmap.md)
+  * [Page 1](english/page-1.md)
 
 ## 📔 draft
 
-* [Intro](draft/intro/README.md)
-  * [STEP ONE: Register for UniPass](draft/intro/step-one-register-for-unipass.md)
-  * [STEP TWO:  Deposit CKB.](draft/intro/step-two-deposit-ckb..md)
-  * [STEP THREE: Buy HuntingNFT cards and Prepare for battle.](draft/intro/step-three-buy-huntingnft-cards-and-prepare-for-battle..md)
+* [Intro](english/intro/README.md)
+  * [STEP ONE: Register for UniPass](english/intro/step-one-register-for-unipass.md)
+  * [STEP TWO:  Deposit CKB.](english/intro/step-two-deposit-ckb..md)
+  * [STEP THREE: Buy HuntingNFT cards and Prepare for battle.](english/intro/step-three-buy-huntingnft-cards-and-prepare-for-battle..md)
 
 ## HuntingNFT FAQ
 
