@@ -2,17 +2,21 @@
 
 ##
 
-* [📔 中文](README.md)
-  * [一、HuntingNFT介绍](undefined/zhong-wen/page-2.md)
-  * [二、Hunting的世界观](undefined/zhong-wen/er-hunting-de-shi-jie-guan.md)
-  * [三、游戏物品](undefined/zhong-wen/san-you-xi-wu-pin.md)
-  * [四、游戏主要玩法](undefined/zhong-wen/si-you-xi-zhu-yao-wan-fa.md)
-  * [五、战斗准备](undefined/zhong-wen/wu-zhan-dou-zhun-bei.md)
-  * [六、游戏入门](undefined/zhong-wen/liu-you-xi-ru-men.md)
-  * [七、经济模型](undefined/zhong-wen/qi-jing-ji-mo-xing.md)
-  * [八、玩赚GameFi](undefined/zhong-wen/ba-wan-zhuan-gamefi.md)
-  * [九、路线图](undefined/zhong-wen/jiu-lu-xian-tu.md)
-  * [十、联系我们](undefined/zhong-wen/shi-lian-xi-wo-men.md)
+* [Page 1](README.md)
+
+## Group 1
+
+* [📔 中文](group-1/zhong-wen/README.md)
+  * [一、HuntingNFT介绍](group-1/zhong-wen/yi-huntingnft-jie-shao.md)
+  * [二、Hunting的世界观](group-1/zhong-wen/er-hunting-de-shi-jie-guan.md)
+  * [三、游戏物品](group-1/zhong-wen/san-you-xi-wu-pin.md)
+  * [四、游戏主要玩法](group-1/zhong-wen/si-you-xi-zhu-yao-wan-fa.md)
+  * [五、战斗准备](group-1/zhong-wen/wu-zhan-dou-zhun-bei.md)
+  * [六、游戏入门](group-1/zhong-wen/liu-you-xi-ru-men.md)
+  * [七、经济模型](group-1/zhong-wen/qi-jing-ji-mo-xing.md)
+  * [八、玩赚GameFi](group-1/zhong-wen/ba-wan-zhuan-gamefi.md)
+  * [九、路线图](group-1/zhong-wen/jiu-lu-xian-tu.md)
+  * [十、联系我们](group-1/zhong-wen/shi-lian-xi-wo-men.md)
 
 ## 📔 English
 
