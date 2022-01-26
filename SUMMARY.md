@@ -11,18 +11,19 @@
   * [八、玩赚GameFi](zhong-wen/ba-wan-zhuan-gamefi.md)
   * [九、路线图](zhong-wen/jiu-lu-xian-tu.md)
   * [十、联系我们](zhong-wen/shi-lian-xi-wo-men.md)
+* [📔 English](english/README.md)
+  * [1. HuntingNFT Intro](english/1.-huntingnft-intro.md)
+  * [2.Hunting's worldview](english/2.huntings-worldview.md)
+  * [3. Game items](english/3.-game-items.md)
+  * [4.The main gameplay](english/4.the-main-gameplay.md)
+  * [5. Preparation for battle](english/5.-preparation-for-battle.md)
 
-## Group 1
+## 📔 draft
 
-* [中文](https://app.gitbook.com/s/mD3oPSlqIYg0djRAg4g3/)
-
-## 📔 English
-
-* [1. HuntingNFT Intro](english/1.-huntingnft-intro.md)
-* [Intro](english/intro/README.md)
-  * [STEP ONE: Register for UniPass](english/intro/step-one-register-for-unipass.md)
-  * [STEP TWO:  Deposit CKB.](english/intro/step-two-deposit-ckb..md)
-  * [STEP THREE: Buy HuntingNFT cards and Prepare for battle.](english/intro/step-three-buy-huntingnft-cards-and-prepare-for-battle..md)
+* [Intro](draft/intro/README.md)
+  * [STEP ONE: Register for UniPass](draft/intro/step-one-register-for-unipass.md)
+  * [STEP TWO:  Deposit CKB.](draft/intro/step-two-deposit-ckb..md)
+  * [STEP THREE: Buy HuntingNFT cards and Prepare for battle.](draft/intro/step-three-buy-huntingnft-cards-and-prepare-for-battle..md)
 
 ## HuntingNFT FAQ
 
